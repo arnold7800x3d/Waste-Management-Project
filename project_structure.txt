@@ -1,0 +1,122 @@
+Folder PATH listing for volume New Volume
+Volume serial number is 1CD2-847E
+E:.
+³   auth.py
+³   project_structure.txt
+³   requirements.txt
+³   
+ÃÄÄÄstatic
+³   ÃÄÄÄcss
+³   ³       style.css
+³   ³       style.css.map
+³   ³       
+³   ÃÄÄÄfonts
+³   ³   ÃÄÄÄmaterial-icon
+³   ³   ³   ÃÄÄÄcss
+³   ³   ³   ³       material-design-iconic-font.css
+³   ³   ³   ³       material-design-iconic-font.min.css
+³   ³   ³   ³       
+³   ³   ³   ÀÄÄÄfonts
+³   ³   ³           Material-Design-Iconic-Font.eot
+³   ³   ³           Material-Design-Iconic-Font.svg
+³   ³   ³           Material-Design-Iconic-Font.ttf
+³   ³   ³           Material-Design-Iconic-Font.woff
+³   ³   ³           Material-Design-Iconic-Font.woff2
+³   ³   ³           
+³   ³   ÀÄÄÄpoppins
+³   ³           poppins-v5-latin-300.eot
+³   ³           poppins-v5-latin-300.svg
+³   ³           poppins-v5-latin-300.ttf
+³   ³           poppins-v5-latin-300.woff
+³   ³           poppins-v5-latin-300.woff2
+³   ³           poppins-v5-latin-300italic.eot
+³   ³           poppins-v5-latin-300italic.svg
+³   ³           poppins-v5-latin-300italic.ttf
+³   ³           poppins-v5-latin-300italic.woff
+³   ³           poppins-v5-latin-300italic.woff2
+³   ³           poppins-v5-latin-500.eot
+³   ³           poppins-v5-latin-500.svg
+³   ³           poppins-v5-latin-500.ttf
+³   ³           poppins-v5-latin-500.woff
+³   ³           poppins-v5-latin-500.woff2
+³   ³           poppins-v5-latin-500italic.eot
+³   ³           poppins-v5-latin-500italic.svg
+³   ³           poppins-v5-latin-500italic.ttf
+³   ³           poppins-v5-latin-500italic.woff
+³   ³           poppins-v5-latin-500italic.woff2
+³   ³           poppins-v5-latin-600.eot
+³   ³           poppins-v5-latin-600.svg
+³   ³           poppins-v5-latin-600.ttf
+³   ³           poppins-v5-latin-600.woff
+³   ³           poppins-v5-latin-600.woff2
+³   ³           poppins-v5-latin-700.eot
+³   ³           poppins-v5-latin-700.svg
+³   ³           poppins-v5-latin-700.ttf
+³   ³           poppins-v5-latin-700.woff
+³   ³           poppins-v5-latin-700.woff2
+³   ³           poppins-v5-latin-700italic.eot
+³   ³           poppins-v5-latin-700italic.svg
+³   ³           poppins-v5-latin-700italic.ttf
+³   ³           poppins-v5-latin-700italic.woff
+³   ³           poppins-v5-latin-700italic.woff2
+³   ³           poppins-v5-latin-800.eot
+³   ³           poppins-v5-latin-800.svg
+³   ³           poppins-v5-latin-800.ttf
+³   ³           poppins-v5-latin-800.woff
+³   ³           poppins-v5-latin-800.woff2
+³   ³           poppins-v5-latin-800italic.eot
+³   ³           poppins-v5-latin-800italic.svg
+³   ³           poppins-v5-latin-800italic.ttf
+³   ³           poppins-v5-latin-800italic.woff
+³   ³           poppins-v5-latin-800italic.woff2
+³   ³           poppins-v5-latin-900.eot
+³   ³           poppins-v5-latin-900.svg
+³   ³           poppins-v5-latin-900.ttf
+³   ³           poppins-v5-latin-900.woff
+³   ³           poppins-v5-latin-900.woff2
+³   ³           poppins-v5-latin-italic.eot
+³   ³           poppins-v5-latin-italic.svg
+³   ³           poppins-v5-latin-italic.ttf
+³   ³           poppins-v5-latin-italic.woff
+³   ³           poppins-v5-latin-italic.woff2
+³   ³           poppins-v5-latin-regular.eot
+³   ³           poppins-v5-latin-regular.svg
+³   ³           poppins-v5-latin-regular.ttf
+³   ³           poppins-v5-latin-regular.woff
+³   ³           poppins-v5-latin-regular.woff2
+³   ³           roboto-condensed-v16-latin-700.eot
+³   ³           roboto-condensed-v16-latin-700.svg
+³   ³           roboto-condensed-v16-latin-700.ttf
+³   ³           roboto-condensed-v16-latin-700.woff
+³   ³           roboto-condensed-v16-latin-700.woff2
+³   ³           roboto-condensed-v16-latin-700italic.eot
+³   ³           roboto-condensed-v16-latin-700italic.svg
+³   ³           roboto-condensed-v16-latin-700italic.ttf
+³   ³           roboto-condensed-v16-latin-700italic.woff
+³   ³           roboto-condensed-v16-latin-700italic.woff2
+³   ³           roboto-condensed-v16-latin-italic.eot
+³   ³           roboto-condensed-v16-latin-italic.svg
+³   ³           roboto-condensed-v16-latin-italic.ttf
+³   ³           roboto-condensed-v16-latin-italic.woff
+³   ³           roboto-condensed-v16-latin-italic.woff2
+³   ³           roboto-condensed-v16-latin-regular.eot
+³   ³           roboto-condensed-v16-latin-regular.svg
+³   ³           roboto-condensed-v16-latin-regular.ttf
+³   ³           roboto-condensed-v16-latin-regular.woff
+³   ³           roboto-condensed-v16-latin-regular.woff2
+³   ³           
+³   ÃÄÄÄimages
+³   ³       signin-image.jpg
+³   ³       signup-image.jpg
+³   ³       
+³   ÃÄÄÄjs
+³   ³       main.js
+³   ³       
+³   ÀÄÄÄvendor
+³       ÀÄÄÄjquery
+³               jquery-ui.min.js
+³               jquery.min.js
+³               
+ÀÄÄÄtemplates
+        index.html
+        
